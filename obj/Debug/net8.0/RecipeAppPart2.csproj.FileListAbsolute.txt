@@ -1,0 +1,14 @@
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\RecipeAppPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\RecipeAppPart2.AssemblyInfoInputs.cache
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\RecipeAppPart2.AssemblyInfo.cs
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\RecipeAppPart2.csproj.CoreCompileInputs.cache
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\bin\Debug\net8.0\RecipeAppPart2.exe
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\bin\Debug\net8.0\RecipeAppPart2.deps.json
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\bin\Debug\net8.0\RecipeAppPart2.runtimeconfig.json
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\bin\Debug\net8.0\RecipeAppPart2.dll
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\bin\Debug\net8.0\RecipeAppPart2.pdb
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\RecipeAppPart2.dll
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\refint\RecipeAppPart2.dll
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\RecipeAppPart2.pdb
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\RecipeAppPart2.genruntimeconfig.cache
+C:\Users\ameer\source\repos\RecipeAppPart2\RecipeAppPart2\obj\Debug\net8.0\ref\RecipeAppPart2.dll
